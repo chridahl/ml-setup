@@ -10,6 +10,11 @@ chmod +x ml-check.sh
 ./ml-check.sh
 ```
 
+Here's an example output shown if your environment is ready:
+
+![alt text](https://github.com/chridahl/ml-setup/blob/master/ml-check.png "ml-check")
+
+
 ## ml-setup
 
 Todo: Create script to download, install and setup required software.
