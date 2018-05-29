@@ -23,7 +23,7 @@ do
         if [ "$program" == "pip" ]; then
             has_pip2=true
         fi
-        if [ "$program" == "python3" ]; then
+        if [ "$program" == "pip3" ]; then
             has_pip3=true
         fi        
     else 
